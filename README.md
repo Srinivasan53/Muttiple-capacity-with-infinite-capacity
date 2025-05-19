@@ -11,24 +11,25 @@ Visual components and Python
 
 ## Theory:
 Queuing are the most frequently encountered problems in everyday life. For example, queue at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects requiring service and the attendant delays when the service mechanism is busy. Waiting lines cannot be eliminated completely, but suitable techniques can be used to reduce the waiting time of an object in the system. A long waiting line may result in loss of customers to an organization. Waiting time can be reduced by providing additional service facilities, but it may result in an increase in the idle time of the service mechanism.
-![image](https://github.com/user-attachments/assets/6b09910c-4ca4-4f74-accd-bbca9013f048)
+
+![image](https://github.com/user-attachments/assets/6d9347e2-9d1f-4e00-ba12-d9eedc795cf4)
 
 
 ## Procedure :
 
-![image](https://github.com/user-attachments/assets/90c46d26-3201-4c42-ae06-5de4b0225053)
+![image](https://github.com/user-attachments/assets/6c8cfdb0-f152-4170-ba0d-db7df99213bf)
 
 
 
 
 ## Experiment:
 
-
-![image](https://github.com/user-attachments/assets/28cf7a9e-78e9-4dd0-81be-761d4af26df8)
-
+![image](https://github.com/user-attachments/assets/2522325e-5c64-4c8b-8a9a-bf25c0bf0b92)
 
 
-![image](https://github.com/user-attachments/assets/550da476-8c63-41c1-b488-60f0d580312f)
+
+![image](https://github.com/user-attachments/assets/e885aea7-6d1a-4777-bc66-0515f8c81cf2)
+
 
 
 ## Program
@@ -72,8 +73,8 @@ print("--------------------------------------------------------------")
 
 ## Output :
 
+![image](https://github.com/user-attachments/assets/45890878-1f71-4c25-a496-ed5fbec70968)
 
-![image](https://github.com/user-attachments/assets/2c60c748-4750-4c50-b6c6-0d818cd662c0)
 
 ## Result : 
 
